@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Bhagyalakshmi Scheme",
+    "state": "Karnataka",
+    "conditions": {
+      "gender": "female",
+      "age_max": 18
+    }
+  },
+  {
+    "name": "Widow Pension Scheme (Karnataka)",
+    "state": "Karnataka",
+    "conditions": {
+      "gender": "female",
+      "marital_status": "widow",
+      "age_min": 18
+    }
+  },
+  {
+    "name": "Udyogini Scheme",
+    "state": "Karnataka",
+    "conditions": {
+      "gender": "female",
+      "age_min": 18
+    }
+  },
+  {
+    "name": "Stree Shakti Self-Help Group Scheme",
+    "state": "Karnataka",
+    "conditions": {
+      "gender": "female",
+      "age_min": 18
+    }
+  },
+  {
+    "name": "Maternity Assistance Scheme (Karnataka)",
+    "state": "Karnataka",
+    "conditions": {
+      "gender": "female",
+      "age_min": 18
+    }
+  },
+  {
+    "name": "Disability Assistance Scheme (Karnataka)",
+    "state": "Karnataka",
+    "conditions": {
+      "gender": "female",
+      "disability": true,
+      "age_min": 18
+    }
+  },
+  {
+    "name": "SC/ST Women Development Scheme (Karnataka)",
+    "state": "Karnataka",
+    "conditions": {
+      "gender": "female",
+      "category": "SC",
+      "age_min": 18
+    }
+  },
+
+  {
+    "name": "Majhi Kanya Bhagyashree",
+    "state": "Maharashtra",
+    "conditions": {
+      "gender": "female",
+      "age_max": 18
+    }
+  },
+  {
+    "name": "Widow Pension Scheme (Maharashtra)",
+    "state": "Maharashtra",
+    "conditions": {
+      "gender": "female",
+      "marital_status": "widow",
+      "age_min": 18
+    }
+  },
+  {
+    "name": "Women Entrepreneurship Scheme (Maharashtra)",
+    "state": "Maharashtra",
+    "conditions": {
+      "gender": "female",
+      "age_min": 18
+    }
+  },
+  {
+    "name": "Skill Development Scheme (Maharashtra)",
+    "state": "Maharashtra",
+    "conditions": {
+      "gender": "female",
+      "age_min": 18
+    }
+  },
+  {
+    "name": "Maternity Assistance Scheme (Maharashtra)",
+    "state": "Maharashtra",
+    "conditions": {
+      "gender": "female",
+      "age_min": 18
+    }
+  },
+  {
+    "name": "Low Income Women Support Scheme (Maharashtra)",
+    "state": "Maharashtra",
+    "conditions": {
+      "gender": "female",
+      "age_min": 18
+    }
+  },
+  {
+    "name": "Rural Women Entrepreneurship Scheme (Maharashtra)",
+    "state": "Maharashtra",
+    "conditions": {
+      "gender": "female",
+      "age_min": 18
+    }
+  }
+]

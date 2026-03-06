@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.faiss
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# HuggingFace cache
+.cache/venv/
+venv/
+__pycache__/
+*.pyc
